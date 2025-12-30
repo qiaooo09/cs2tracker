@@ -8,7 +8,7 @@ Information system for log and analyse **per-match statistics** of Counter-Strik
 
 ```bash
 git clone https://github.com/qiaooo09/cs2tracker.git
-cd cs2stats
+cd cs2tracker
 python -m venv venv
 venv\Scripts\activate # Windows
 pip install -r requirements.txt
